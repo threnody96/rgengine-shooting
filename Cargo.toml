@@ -1,0 +1,7 @@
+[package]
+name = "rgengine-shooting"
+version = "0.1.0"
+authors = ["Imota Eru <threnody96@gmail.com>"]
+
+[dependencies.rgengine]
+path = "../rgengine"
